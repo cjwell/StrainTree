@@ -1,0 +1,5 @@
+fasttree = /workdir/staff/chenjing/Biosoft/bin/miniconda/bin/fasttree
+nucmer=/workdir/staff/chenjing/Biosoft/bin/miniconda/bin/nucmer
+show-snps=/workdir/staff/chenjing/Biosoft/bin/miniconda/bin/show-snps
+show-coords=/workdir/staff/chenjing/Biosoft/bin/miniconda/bin/show-coords
+Rscript=/workdir/staff/chenjing/Biosoft/bin/miniconda/envs/r_env/bin/Rscript
